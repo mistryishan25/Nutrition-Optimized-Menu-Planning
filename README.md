@@ -4,13 +4,15 @@ This GitHub repository provides tools and data for optimizing menu planning acro
 ## Table of Contents
 - [Relevance of the problem](#relevance-of-the-problem)
 - [Problem Description](#problem-description)
-
+- [Model Formulation](#model-formulation)
+  - [Decision Variables](#decision-variables)
+  - [Objective Function](#objective-function)
+  - [Constraints](#constraints)
+- []
 
 ## Relevance of the problem
 
-## Problem Description 
-
-## Mathematical formulation 
+## Problem Description  
 
 ## Model Formulation
 ### Decision Variables
