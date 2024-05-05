@@ -27,6 +27,6 @@ This GitHub repository provides tools and data for optimizing menu planning acro
 ### Comparative Analysis of Combined vs. Individual Optimization
 ### Impact of Relaxing Diversity Constraints
 ### Price Sensitivity Analysis
-This analysis examines the impact of item price variations on menu composition, essential for business profitability and consumer satisfaction. To maintain profitability and customer appeal, businesses like McDonald’s must understand how price adjustments affect menu choices. Similarly, consumers' purchasing decisions are influenced by price changes, emphasizing affordability and value. We conduct two experiments from dual perspectives: one focused on business considerations, such as maintaining profitability amidst price fluctuations, and the other on consumer preferences, emphasizing affordability and value in menu offerings."
+This analysis examines the impact of item price variations on menu composition, essential for business profitability and consumer satisfaction. To maintain profitability and customer appeal, businesses like McDonald’s must understand how price adjustments affect menu choices. Similarly, consumers' purchasing decisions are influenced by price changes, emphasizing affordability and value. We conduct two experiments from these dual perspectives: one focused on inflation-based scenarios, and the other on market disruptions affecting item prices.
 
 ## Conclusion
