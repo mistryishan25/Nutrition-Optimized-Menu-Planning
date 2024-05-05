@@ -9,7 +9,7 @@ This GitHub repository provides tools and data for optimizing menu planning acro
   - [Objective Function](#objective-function)
   - [Constraints](#constraints)
 - [Numerical Analysis](#numerical-analysis)
-  - [Comparative Analysis of Combined vs. Individual Optimization](#experiment-1)
+  - [Comparative Analysis of Combined vs. Individual Optimization](#comparative-analysis-of-combined-vs-Individual-Optimization)
   - [Impact of Relaxing Diversity Constraints](experiment-2)
   - [Price Sensitivity Analysis](experiment-3)
 
