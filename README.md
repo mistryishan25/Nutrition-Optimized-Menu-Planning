@@ -140,3 +140,10 @@ In this experiment, we adjusted the Diversity Constraint to observe its impact o
 This analysis examines the impact of item price variations on menu composition, essential for business profitability and consumer satisfaction. To maintain profitability and customer appeal, businesses like McDonald’s must understand how price adjustments affect menu choices. Similarly, consumers' purchasing decisions are influenced by price changes, emphasizing affordability and value. We conduct two experiments from these dual perspectives: one focused on inflation-based scenarios, and the other on market disruptions affecting item prices.
 
 ## Conclusion
+
+## Future Work
+- [ ] Adding an interface to turn this model into a web application
+- [ ] Add an efficient implementation of the Simplex algorithm - Python
+- [ ] Try changing the model to get more insights from the business perspective.
+  - [ ] Changing the objective to maximize the cost(Selling Price)
+  - [ ] Products that need improvement/boost in marketing
