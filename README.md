@@ -25,7 +25,7 @@ This GitHub repository provides tools and data for optimizing menu planning acro
 
 ## Numerical Analysis 
 ### Comparative Analysis of Combined vs. Individual Optimization
-
+This study compares two optimization approaches for meeting nutritional needs across different age groups. By evaluating concurrent optimization of menu schedules for all age groups versus individual optimization for each group, the research aims to determine the most effective method in fulfilling dietary requirements while respecting specific constraints and guidelines for each demographic category. Two menu designs were created: one aimed at meeting overall nutritional needs for all demographics at a minimal cost, and another tailored to the unique nutritional requirements of each demographic group.
 
 ### Impact of Relaxing Diversity Constraints
 In this experiment, we adjusted the Diversity Constraint to observe its impact on optimized menus. Surprisingly, even with a significantly looser constraint, the results remained similar to more constrained settings. This suggests that menu diversity was inherently limited, aligning with the unique dietary needs of each group while optimizing cost efficiency.
