@@ -10,8 +10,9 @@ This GitHub repository provides tools and data for optimizing menu planning acro
   - [Constraints](#constraints)
 - [Numerical Analysis](#numerical-analysis)
   - [Comparative Analysis of Combined vs. Individual Optimization](#comparative-analysis-of-combined-vs-Individual-Optimization)
-  - [Impact of Relaxing Diversity Constraints](experiment-2)
-  - [Price Sensitivity Analysis](experiment-3)
+  - [Impact of Relaxing Diversity Constraints](#Impact-of-Relaxing-Diversity-Constraints)
+  - [Price Sensitivity Analysis](#Price-Sensitivity-Analysis)
+- [Conclusion](#conclusion)
 
 ## Relevance of the problem
 
